@@ -13,7 +13,4 @@
 - **CSS3**
 - **JavaScript (Vanilla)**
 - **GitHub Pages** (Hosting)
-
-## 📌 Live Demo
-Aap is project ko yahan live dekh sakte hain: 
-(Yahan apna GitHub Pages wala live link paste kar dena jo abhi thodi der mein aapko milne wala hai)
+-
